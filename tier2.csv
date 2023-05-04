@@ -1,0 +1,1897 @@
+tier1_id,tier2_id,tier2_name
+15,13,Adams Central Middle School
+15,20,Adams Central Elementary School
+15,21,Adams Central High School
+25,29,Bellmont Senior High School
+25,33,Bellmont Middle School
+25,37,Bellmont Elementary 
+35,17,South Adams Middle School
+35,23,South Adams High School
+35,25,South Adams Elementary School
+125,45,Aboite Elementary School
+125,46,Whispering Meadow Elementary Sch
+125,47,Homestead Senior High School
+125,63,Summit Middle School
+125,64,Lafayette Meadow School
+125,67,Woodside Middle School
+125,68,Haverhill Elementary School
+125,71,Deer Ridge Elementary
+125,72,Covington Elementary School
+225,69,Arcola School
+225,79,Maple Creek Middle School
+225,87,Hickory Center Elementary School
+225,89,Huntertown Elementary School
+225,90,Carroll Middle School
+225,91,Carroll High School
+225,92,Perry Hill Elementary School
+225,94,Oak View Elementary School
+225,95,Cedar Canyon Elementary School
+225,96,Eel River Elementary School
+225,145,Allen Co Youth Services Center
+235,93,Anthis Career Center
+235,100,Allen Co Juvenile Center
+235,101,North Side High School
+235,102,R Nelson Snider High School
+235,105,South Side High School
+235,107,Blackhawk Middle School
+235,118,Jeff H Towles Intermediate School
+235,119,Jefferson Middle School
+235,121,Kekionga Middle School
+235,125,Lakeside Middle School
+235,126,Lane Middle School
+235,127,Memorial Park Middle School
+235,128,Miami Middle School
+235,129,Northwood Middle School
+235,133,Portage Middle School
+235,134,Weisser Park Elementary School
+235,136,Fairfield Elementary School
+235,137,Merle J Abbett Elementary School
+235,141,Adams Elementary School
+235,149,Bloomingdale Elementary School
+235,151,Bunche Elementary School
+235,153,Brentwood Elementary School
+235,154,Fred H Croninger Elementary School
+235,157,Forest Park Elementary School
+235,161,Franke Park Elementary School
+235,162,Glenwood Park Elementary School
+235,164,J Wilbur Haley Elementary School
+235,177,Wayne High School
+235,178,Harrison Hill Elementary School
+235,186,Mabel K Holland Elementary School
+235,189,Indian Village Elementary School
+235,193,John S Irwin Elementary School
+235,197,Lindley Elementary School
+235,205,Maplewood Elementary School
+235,209,Willard Shambaugh Elementary Sch
+235,217,Northcrest Elementary School
+235,219,Northrop High School
+235,221,Francis M Price Elementary School
+235,233,Saint Joseph Central School
+235,239,Robert C Harris Elementary School
+235,240,Shawnee Middle School
+235,241,Whitney M Young Early Childhood
+235,249,Levan R Scott Academy
+235,253,South Wayne Elementary School
+235,257,Study Elementary School
+235,265,Washington Elementary School
+235,269,Washington Center Elementary Sch
+235,270,Lincoln Elementary School
+235,273,Waynedale Elementary School
+235,275,Arlington Elementary School
+255,43,Prince Chapman Academy
+255,49,Leo Junior/Senior High School
+255,53,Leo Elementary School
+255,81,Heritage Jr/Sr High School
+255,83,New Haven Primary School
+255,281,Heritage Elementary School
+255,285,Woodlan Jr/Sr High School
+255,291,Cedarville Elementary School
+255,294,Paul Harding Jr High School
+255,297,New Haven Jr/Sr High School
+255,305,New Haven Intermediate School
+255,310,Southwick Elementary School
+255,318,EACS Early Childhood Preschool
+255,323,Woodlan Elementary School
+255,394,East Allen University
+365,328,Clifty Creek Elementary School
+365,346,CSA Lincoln Campus
+365,353,Mount Healthy Elementary School
+365,354,Richard L Johnson Early Educ Cntr
+365,357,Parkside Elementary School
+365,363,W D Richards Elementary School
+365,366,Rockcreek Elementary School
+365,369,Lillian Schmitt Elementary School
+365,371,L F Smith Elementary
+365,375,CSA Fodrea Campus
+365,377,Taylorsville Elementary School
+365,387,Columbus Area Career Connection
+365,390,Central Middle School
+365,392,Southside Elementary School
+365,395,Northside Middle School
+365,397,Columbus North High School
+365,399,Columbus East High School
+370,409,Hope Elementary School
+370,410,Hauser Jr-Sr High School
+395,421,Otterbein Elementary School
+395,433,Boswell Elementary School
+395,445,Benton Central Jr-Sr High School
+395,446,Prairie Crossing Elementary School
+515,485,Montpelier School
+515,489,Blackford Jr-Sr High School
+515,494,Blackford Intermediate School
+515,501,North Side Elementary School
+615,521,Granville Wells Elementary School
+615,537,Thorntown Elementary School
+615,539,Western Boone Jr-Sr High School
+630,510,Zionsville West Middle School
+630,511,Zionsville Middle School
+630,512,Zionsville Community High School
+630,514,Eagle Elementary School
+630,517,Zionsville Pleasant View Elem Sch
+630,541,Union Elementary School
+630,542,Stonegate Elementary
+630,544,Boone Meadow
+665,534,Perry Worth Elementary School
+665,553,Lebanon Senior High School
+665,557,Lebanon Middle School
+665,561,Central Elementary School
+665,565,Harney Elementary School
+665,569,Hattie B Stokes Elementary School
+670,571,Brown County Intermediate School
+670,573,Brown County High School
+670,577,Van Buren Elementary School
+670,581,Helmsburg Elementary School
+670,585,Sprunica Elementary School
+670,587,Brown County Junior High
+750,621,Carroll Senior High School
+750,623,Carroll Junior High School
+750,629,Carroll Elementary School
+755,609,Delphi Community Middle School
+755,637,Delphi Community High School
+755,641,Delphi Community Elementary School
+775,645,Pioneer Jr-Sr High School
+775,649,Pioneer Elementary School
+815,689,Lewis Cass High School
+815,691,Lewis Cass Junior High School 
+815,692,Lewis Cass Polytechnic Academy 
+815,695,Lewis Cass Elementary School
+875,701,Logansport Community High School
+875,702,Logansport Junior High School 
+875,705,Franklin Elementary School
+875,709,Fairview Elementary School
+875,711,Landis Elementary School
+875,713,Columbia Elementary School
+875,715,Columbia 6th Grade Academy 
+875,739,Century Career Center
+875,741,Logansport Area Jnt Spec Ed
+935,765,Henryville Jr & Sr High School
+935,767,Henryville Elementary School
+935,813,William W Borden High School
+935,815,William W Borden Elementary School
+945,777,Silver Creek High School
+945,781,Silver Creek Middle School
+945,789,Silver Creek Elementary School
+945,818,Silver Creek Primary School
+1000,833,Clarksville Senior High School
+1000,845,Clarksville Elementary School
+1000,851,Clarksville Middle School
+1000,1007,Indiana Gateway Digital Academy
+1010,755,W E Wilson Elementary
+1010,761,Thomas Jefferson Elementary School
+1010,801,Northaven Elementary School
+1010,805,Utica Elementary School
+1010,807,New Washington Elementary School
+1010,809,New Washington Middle/High School
+1010,821,Charlestown Senior High School
+1010,825,Jonathan Jennings Elementary Sch
+1010,829,Pleasant Ridge Elementary School
+1010,849,Jeffersonville High School
+1010,853,Parkview Middle School
+1010,863,Charlestown Middle School
+1010,865,Bridgepoint Elementary School
+1010,871,Riverside Elementary School
+1010,874,Franklin Square Elementary School
+1010,879,Parkwood Elementary School
+1010,883,River Valley Middle School
+1010,886,Old Corden Porter School
+1010,891,Greater Clark County Schools Virtual Academy
+1125,895,Clay City Elementary School
+1125,897,Clay City Jr-Sr High School
+1125,901,Jackson Township Elementary School
+1125,907,Staunton Elementary School
+1125,923,Van Buren Elementary School
+1125,925,North Clay Middle School
+1125,933,Northview High School
+1125,941,East Side Elementary School
+1125,942,Forest Park Elementary School
+1125,949,Meridian Street Elementary School
+1150,957,Clinton Central Junior-Senior HS
+1150,961,Clinton Central Elementary School
+1160,977,Clinton Prairie Jr-Sr High School
+1160,981,Clinton Prairie Elementary School
+1170,997,Frankfort High School
+1170,999,Frankfort Middle School
+1170,1014,Blue Ridge Primary Elementary Sch
+1170,1015,Green Meadows Intermediate Elem
+1170,1020,Suncrest Elementary School
+1180,1021,Rossville Middle/Senior High Sch
+1180,1033,Rossville Elementary School
+1300,1037,South Crawford Elementary School
+1300,1045,West Crawford Elementary School
+1300,1059,Crawford County High School
+1300,1061,Crawford County Middle School
+1300,1065,East Crawford Elementary School
+1315,1069,Barr Reeve Middle/High School
+1315,1075,Barr Reeve Elementary School
+1375,1090,North Daviess Elementary School
+1375,1121,North Daviess Jr-Sr High School
+1405,1103,Lena Dunn Elementary School
+1405,1105,Veale Elementary School
+1405,1123,Washington Junior High School
+1405,1125,Washington High School
+1405,1129,North Elementary School
+1405,1133,Helen Griffith Elementary School
+1560,1189,North Dearborn Elementary School
+1560,1190,Sunman-Dearborn Middle School
+1560,1193,Bright Elementary School
+1560,7211,Sunman Elementary School
+1560,7213,East Central High School
+1575,7215,Union-North United School Corp
+1600,1141,Dillsboro Elementary School
+1600,1165,Manchester Elementary School
+1600,1169,Moores Hill Elementary School
+1600,1172,South Dearborn Middle School
+1600,1179,South Dearborn High School
+1600,1197,Aurora Elementary School
+1620,1177,Lawrenceburg High School
+1620,1209,Greendale Middle School
+1620,1210,Lawrenceburg Primary School
+1620,1217,Central Elementary School
+1655,1263,South Decatur Jr-Sr High School
+1655,1265,South Decatur Elementary School
+1655,1266,North Decatur Elementary School
+1655,1267,North Decatur Jr-Sr High School
+1730,1268,Greensburg Community High School
+1730,1269,Greensburg Community Jr High
+1730,1270,Greensburg Elementary
+1805,1317,Eastside Junior-Senior High School
+1805,1321,Butler Elementary School
+1805,1333,Impact Institutue
+1805,1335,Riverdale Elementary School
+1805,1337,Northeast IN Spec Ed Coop
+1820,1325,Garrett High School
+1820,1329,J E Ober Elementary School
+1820,1331,Garrett Middle School
+1835,1341,Waterloo Elementary School
+1835,1345,DeKalb High School
+1835,1346,DeKalb Middle School
+1835,1351,James R Watson Elementary School
+1835,1357,McKenney-Harrison Elementary Sch
+1835,1359,Country Meadow Elementary School
+1875,1365,Royerton Elementary School
+1875,1367,Delta Middle School
+1875,1369,Delta High School
+1875,1409,Eaton Elementary School
+1875,1520,Albany Elementary School
+1885,1372,Wes-Del Middle/Senior High School
+1885,1412,Wes-Del Preschool
+1885,1413,Wes-Del Elementary School
+1895,1375,Wapahani High School
+1895,1377,Selma Middle School
+1895,1381,Selma Elementary School
+1900,1385,Cowan Elementary School
+1900,1386,Cowan High School
+1910,1387,Yorktown Middle School
+1910,1389,Yorktown High School
+1910,1393,Yorktown Elementary School
+1910,1395,Pleasant View Elementary School
+1940,1401,Daleville Jr-Sr High School
+1940,1405,Daleville Elementary School
+1970,1421,Muncie Central High School
+1970,1422,Muncie Area Career Center
+1970,1431,Northside Middle School
+1970,1437,Southside Middle School
+1970,1470,Grissom Elementary School
+1970,1482,South View Elementary School
+1970,1485,Longfellow Elementary School
+1970,1496,North View Elementary School
+1970,1513,East Washington Academy
+1970,1517,West View Elementary School
+2040,1545,Northeast Dubois Jr/Sr High School
+2040,1549,Northeast Dubois Intermediate School
+2040,1577,Northeast Dubois Elementary School
+2100,1563,Pine Ridge Elementary School
+2100,1581,Ferdinand Elementary School
+2100,1583,Forest Park Jr-Sr High School
+2100,1586,Cedar Crest Intermediate School
+2110,1529,Holland Elementary School
+2110,1587,Southridge Middle School
+2110,1588,Southridge High School
+2110,1590,Huntingburg Elementary School
+2120,1569,Ireland Elementary School
+2120,1575,Jasper Middle School
+2120,1591,Exceptional Children's Cooperative
+2120,1593,Jasper High School
+2120,1601,Jasper Elementary School
+2155,1613,Fairfield Jr-Sr High School
+2155,1621,Millersburg Elementary- Middle Sch
+2155,1649,New Paris Elementary School
+2155,1652,Benton Elementary School
+2260,1701,Jimtown High School
+2260,1703,Jimtown Junior High School
+2260,1705,Jimtown Elementary School
+2260,1707,Jimtown Intermediate School
+2270,1713,Concord Junior High School
+2270,1715,Concord Community High School
+2270,1718,Concord Intermediate School
+2270,1721,Concord East Side Elementary Sch
+2270,1723,Concord Ox Bow Elementary School
+2270,1725,Concord South Side Elementary Sch
+2270,1729,Concord West Side Elem School
+2275,1656,Jefferson Elementary School
+2275,1657,Northridge Middle School
+2275,1697,York Elementary School
+2275,1731,Heritage Intermediate School
+2275,1732,Middlebury Elementary School
+2275,1733,Northridge High School
+2275,1734,Orchard View School
+2275,1738,Inspire Digital Learning School
+2285,1669,North Wood Middle School
+2285,1735,Wakarusa Elementary School
+2285,1737,North Wood High School
+2285,1743,Nappanee Elementary School
+2285,1747,Woodview Elementary School
+2305,1617,Cleveland Elementary School
+2305,1673,Osolo Elementary School
+2305,1679,Eastwood Elementary School
+2305,1681,Mary Feeser Elementary School
+2305,1693,Bristol Elementary School
+2305,1751,Elkhart Area Career Center
+2305,1752,Elkhart Alternative Education
+2305,1753,North Side Middle School
+2305,1754,Elkhart High School
+2305,1761,West Side Middle School
+2305,1763,Pierre Moran Middle School
+2305,1765,Beardsley Elementary School
+2305,1769,Mary Beck Elementary School
+2305,1773,Mary Daly Elementary School
+2305,1777,Hawthorne Elementary School
+2305,1785,Pinewood Elementary School
+2305,1789,Monger Elementary School
+2305,1797,Riverview Elementary School
+2305,1801,Roosevelt STEAM Academy 
+2305,1817,Woodland Elementary School
+2315,1629,Goshen Middle School
+2315,1633,Model Elementary School
+2315,1641,Waterford Elementary School
+2315,1821,Goshen High School
+2315,1829,Chamberlain Elementary School
+2315,1833,Chandler Elementary School
+2315,1843,Parkside Elementary School
+2315,1847,Prairie View Elementary School
+2315,1849,West Goshen Elementary School
+2395,1869,Everton Elementary School
+2395,1889,Connersville Sr High School
+2395,1895,Connersville Middle School
+2395,1897,Eastview Elementary School
+2395,1909,Frazee Elementary School
+2395,1913,Grandview Elementary School
+2395,1921,Fayette Central Elementary
+2395,1923,Whitewater Career Center
+2400,1925,New Albany Senior High School
+2400,1929,Georgetown Elementary School
+2400,1930,Floyd Central High School
+2400,1931,Highland Hills Middle School
+2400,1933,Hazelwood Middle School
+2400,1937,Nathaniel Scribner Middle School
+2400,1943,Slate Run Elementary School
+2400,1949,Fairmont Elementary School
+2400,1953,Greenville Elementary School
+2400,1957,Grant Line Elementary School
+2400,1961,Green Valley Elementary School
+2400,1966,Floyds Knobs Elementary School
+2400,1974,Mount Tabor Elementary School
+2400,1981,S Ellen Jones Elementary School
+2400,1990,Prosser Career Education Center
+2400,1994,CA Early Learning Center
+2435,2053,Attica High School
+2435,2057,Attica Elementary School
+2440,2005,Covington Community High School
+2440,2009,Covington Elementary School
+2440,2013,Covington Middle School
+2455,2021,Southeast Fountain Elementary
+2455,2022,Fountain Central High School
+2475,2082,Laurel School
+2475,2083,Franklin County High
+2475,2123,Franklin County Middle School 
+2475,2125,Brookville Elementary School
+2475,2127,Mount Carmel School
+2645,2173,Rochester Community High School
+2645,2177,Rochester Community Middle School
+2645,2181,Columbia Elementary School
+2645,2185,George M Riddle Elementary School
+2650,2157,Caston Elementary School
+2650,2159,Caston Jr-Sr High School
+2725,2189,Barton Township Elementary
+2725,2194,Waldo J Wood Memorial JHS
+2725,2201,Francisco Elementary School
+2725,2233,Waldo J Wood Memorial High
+2725,2237,Oakland City Elementary School
+2735,2223,Princeton Comm Intermediate School
+2735,2225,Princeton Community Middle
+2735,2249,Princeton Community High School
+2735,2257,Princeton Comm Primary School
+2765,2205,Haubstadt Community School
+2765,2211,Gibson Southern High School
+2765,2214,Fort Branch Community School
+2765,2241,Owensville Community School
+2815,2263,Eastbrook South Elementary
+2815,2264,Eastbrook North Elementary
+2815,2291,Early Childhood Center
+2815,2293,Eastbrook High School
+2815,2299,Eastbrook Junior High School
+2825,2321,Madison-Grant Jr./Sr. High School
+2825,2329,Park Elementary School
+2825,5037,Summitville School
+2855,2333,Mississinewa High School
+2855,2335,R J Baskett Middle School
+2855,2344,Westview Elementary School
+2855,2346,Northview Elementary School
+2865,2276,Marion Regional Career Center
+2865,2350,Justice Thurgood Marshall Intrmd
+2865,2351,Marion High School
+2865,2357,John L McCulloch Junior High Sch
+2865,2369,Allen Elementary School
+2865,2370,Marion Early Childhood Ed Cntr
+2865,2393,John W Kendall Elem School
+2865,2405,Riverview Elementary School
+2865,2409,Frances Slocum Elem School
+2865,2416,Grant County Comm Justice Center
+2920,2417,Bloomfield Elementary School
+2920,2419,Bloomfield Jr-Sr High School
+2940,2433,Eastern Greene Elementary School
+2940,2435,Eastern Greene High School
+2940,2436,Eastern Greene Middle School
+2950,2437,Linton-Stockton High School
+2950,2438,Linton-Stockton Middle School
+2950,2441,Linton-Stockton Elementary
+2960,2445,Shakamak Jr-Sr High School
+2960,2449,Shakamak Elementary School
+2980,2429,White River Valley High School
+2980,2457,White River Valley Middle School
+2980,2460,White River Valley Elementary Sch
+3005,2466,Brooks School Elementary
+3005,2468,New Britton Elementary School
+3005,2469,Fishers Elementary School
+3005,2470,Cumberland Road Elem School
+3005,2471,Hoosier Road Elementary School
+3005,2473,Fall Creek Elementary School
+3005,2474,Geist Elementary School
+3005,2475,Lantern Road Elementary School
+3005,2476,Fishers Junior High School
+3005,2479,Sand Creek Intermediate School
+3005,2481,Harrison Parkway Elementary School
+3005,2482,Sand Creek Elementary
+3005,2483,Thorpe Creek Elementary
+3005,2484,Southeastern Elementary School
+3005,2485,Fall Creek Intermediate School
+3005,2486,Fall Creek Junior High
+3005,2487,Fishers High School
+3005,2489,Hamilton SE Int and Jr High Sch
+3005,2490,Riverside Junior High
+3005,2497,Durbin Elementary School
+3005,2499,Hamilton Southeastern HS
+3005,2500,Riverside Intermediate School
+3025,2477,Hamilton Heights High School
+3025,2478,Hamilton Heights Elementary School
+3025,2501,Hamilton Heights Middle School
+3030,2491,Westfield Middle School
+3030,2492,Shamrock Springs Elementary School
+3030,2493,Westfield High School
+3030,2494,Carey Ridge Elementary School
+3030,2495,Washington Woods Elementary School
+3030,2496,Oak Trace Elementary School
+3030,2498,Monon Trail Elementary School
+3030,2503,Westfield Intermediate School
+3030,2504,Maple Glen Elementary
+3055,2463,Sheridan High School
+3055,2465,Sheridan Elementary School
+3055,6780,Sheridan Middle School
+3060,2505,Carmel High School
+3060,2506,Clay Middle School
+3060,2507,Woodbrook Elementary School
+3060,2508,Cherry Tree Elementary School
+3060,2509,Carmel Elementary School
+3060,2510,College Wood Elementary School
+3060,2511,Carmel Middle School
+3060,2512,Smoky Row Elementary School
+3060,2513,Orchard Park Elementary School
+3060,2515,Prairie Trace Elementary School
+3060,2516,Mohawk Trails Elementary School
+3060,2518,Forest Dale Elementary School
+3060,2520,Creekside Middle School
+3060,2522,Towne Meadow Elementary School
+3060,2526,West Clay Elementary School
+3070,2517,Noblesville High School
+3070,2521,Noblesville East Middle School
+3070,2523,Hinkle Creek Elementary School
+3070,2529,North Elementary School
+3070,2533,Stony Creek Elementary School
+3070,2537,Noble Crossing Elementary School
+3070,2538,Hazel Dell Elementary School
+3070,2539,Promise Road Elementary
+3070,2542,Noblesville West Middle School
+3070,2546,Juvenile Services Center
+3070,2547,White River Elementary School
+3115,2543,New Palestine Intermediate School 
+3115,2563,Brandywine Elementary School
+3115,2564,New Palestine Elementary School
+3115,2565,New Palestine High School
+3115,2566,New Palestine Jr High School 
+3115,2567,Sugar Creek Elementary Sch
+3125,2577,Maxwell Intermediate School
+3125,2579,Greenfield Central Junior High Sch
+3125,2581,Eden Elementary School
+3125,2588,JB Stephens Elementary School
+3125,2593,Greenfield Intermediate School
+3125,2595,Greenfield-Central High School
+3125,2597,Harris Elementary School
+3125,2609,Weston Elementary School
+3135,2558,Fortville Elementary School
+3135,2559,Mt Vernon Middle School
+3135,2561,Mt Comfort Elementary School
+3135,2568,Mt Vernon Early Learning Academy 
+3135,2569,Mt Vernon High School
+3135,2570,McCordsville Elementary School
+3145,2582,Eastern Hancock Middle School
+3145,2585,Eastern Hancock High School
+3145,2586,Eastern Hancock Elementary School
+3160,2611,Lanesville Elementary School
+3160,2613,Lanesville Jr-Sr HS
+3180,2621,Morgan Elementary School
+3180,2625,North Harrison Middle School
+3180,2629,North Harrison High School
+3180,2633,North Harrison Elementary School
+3190,2619,Harrison County Spec Ed Coop
+3190,2640,Corydon Central High School
+3190,2643,Corydon Central Jr High School
+3190,2645,Corydon Elementary School
+3190,2649,New Middletown Elementary School
+3190,2653,Heth-Washington Elementary School
+3190,2663,Corydon Intermediate School
+3190,2667,South Central Elementary
+3190,2670,South Central Jr & Sr High School
+3295,2682,Tri-West Middle School
+3295,2684,Pittsboro Primary School
+3295,2685,North Salem Elementary School
+3295,2725,Pittsboro Elementary School
+3295,2731,Tri-West Senior High School
+3305,2706,Brown Elementary School
+3305,2707,Brownsburg Early Childhood Center
+3305,2709,Brownsburg High School
+3305,2711,Eagle Elementary School
+3305,2713,Brownsburg West Middle School
+3305,2714,Reagan Elementary School
+3305,2718,Delaware Trail Elementary School
+3305,2720,Brownsburg East Middle School
+3305,2723,White Lick Elementary School
+3305,2727,Cardinal Elementary School
+3305,2744,Lincoln Elementary School
+3315,2726,River Birch Elementary School
+3315,2728,Avon Intermediate School East
+3315,2729,Avon Intermediate School West
+3315,2730,Avon Middle School North
+3315,2733,Maple Elementary School
+3315,2734,White Oak Elementary School
+3315,2735,Sycamore Elementary School
+3315,2736,Avon Middle School South
+3315,2737,Avon High School
+3315,2738,Cedar Elementary School
+3315,2739,Pine Tree Elementary School
+3315,2740,Hickory Elementary School
+3325,2721,North Elementary School
+3325,2741,Danville Community High School
+3325,2743,Danville Middle School
+3325,2745,South Elementary School
+3330,2748,Clarks Creek Elementary
+3330,2749,Plainfield High School
+3330,2750,Plainfield Community Middle School
+3330,2751,Central Elementary School
+3330,2753,Little Quakers Academy
+3330,2761,Van Buren Elementary School
+3330,2763,Brentwood Elementary School
+3330,3331,Pride Academy
+3335,2672,Little Cadets Preschool
+3335,2675,Mill Creek East Elementary
+3335,2677,Mill Creek West Elementary
+3335,2687,Cascade Middle School
+3335,2692,Cascade Senior High School
+3405,2801,Blue River Valley Jr-Sr High Sch
+3405,2803,Blue River Valley Elementary Sch
+3415,2773,Tri Junior-Senior High School
+3415,2777,Tri-Elementary School
+3435,2815,Shenandoah Elementary School
+3435,2817,Shenandoah High School
+3435,2819,Shenandoah Middle School
+3445,2825,New Castle High School
+3445,2829,New Castle Middle School
+3445,2832,Eastwood Elementary School
+3445,2844,New Castle Area Vocational Sch
+3445,2847,Parker Elementary School
+3445,2849,James Whitcomb Riley Elem School
+3445,2853,Sunnyside Elementary School
+3445,2854,Tru Harbor
+3445,2861,Westwood Elementary School
+3445,2865,Wilbur Wright Elementary School
+3455,2869,Knightstown High School
+3455,2870,Knightstown Intermediate School
+3455,2887,Knightstown Elementary School
+3460,2894,Taylor High School
+3460,2895,Taylor Elementary School
+3460,2896,Taylor Middle School
+3470,2897,Northwestern Senior High School
+3470,2904,Northwestern Elementary School
+3470,2905,Howard Elementary School
+3470,2907,Northwestern Middle School
+3480,2909,Eastern Elementary School
+3480,2914,Eastern Middle School
+3480,2919,Eastern High School
+3490,2921,Western High School
+3490,2922,Western Middle School
+3490,2923,Western Intermediate School
+3490,2935,Western Primary School
+3500,2943,Sycamore Elementary School
+3500,2945,Bon Air Elementary School
+3500,2947,Boulevard Elementary School
+3500,2949,Kokomo Area Career Center
+3500,2951,Bon Air Middle School
+3500,2955,Central Middle School
+3500,2961,Elwood Haynes Elementary School
+3500,2963,Maple Crest Middle School
+3500,2969,Lafayette Park Elementary School
+3500,2993,Pettit Park School
+3500,3005,Wallace Elementary School
+3500,3013,Kokomo High School
+3625,3021,Andrews Elementary School
+3625,3025,Riverview School
+3625,3029,Roanoke Elementary School
+3625,3035,Salamonie School
+3625,3061,Crestview Middle School
+3625,3065,Huntington North High School
+3625,3077,Flint Springs Elementary
+3625,3078,Huntington Schools Preschool
+3625,3081,Lincoln Elementary School
+3625,3086,Horace Mann Elementary
+3640,3093,Medora Jr & Sr High School
+3640,3095,Medora STEM Academy
+3675,3105,Cortland Elementary School
+3675,3133,Seymour Senior High School
+3675,3135,Margaret R Brown Elementary School
+3675,3138,Seymour Middle School
+3675,3141,Emerson Elementary School
+3675,3153,Seymour-Jackson Elementary School
+3675,3157,Seymour-Redding Elementary School
+3695,3107,Brownstown Central Middle School
+3695,3126,Brownstown Central High School
+3695,3129,Brownstown Elementary School
+3710,3121,Crothersville Jr-Sr High School
+3710,3122,Crothersville Elementary School
+3785,3181,Kankakee Valley High School
+3785,3183,Kankakee Valley Middle School
+3785,3184,DeMotte Elementary School
+3785,3197,Wheatfield Elementary School
+3785,3198,Kankakee Valley Intermediate Sch
+3815,3201,Rensselaer Central High School
+3815,3205,Van Rensselaer Elementary School
+3815,3213,Rensselaer Central Primary School
+3815,3221,Rensselaer Middle School
+3945,3239,Jay County Jr/Sr High School
+3945,3241,Bloomfield Elementary School
+3945,3247,Redkey Elementary School
+3945,3273,East Jay Elementary
+3945,3287,East Elementary School
+3945,3289,Westlawn Elementary School
+3995,3301,Deputy Elementary School
+3995,3309,Madison Consolidated High School
+3995,3313,Madison Consolidated Jr High Sch
+3995,3321,Rykers' Ridge Elementary School
+3995,3329,Lydia Middleton Elementary School
+3995,3333,Anderson Elementary School
+3995,3358,E.O. Muncie Jr/Sr High School
+4000,3337,Southwestern High School
+4000,3341,Southwestern Elementary School
+4000,3343,Southwestern Middle School
+4015,3345,Jennings County High School
+4015,3349,Sand Creek Elementary School
+4015,3357,Scipio Elementary School
+4015,3361,Graham Creek Elementary School
+4015,3385,Hayden Elementary School
+4015,3389,Brush Creek Elementary School
+4015,3393,Jennings County Middle School
+4015,3397,North Vernon Elementary School
+4145,3401,Clark Elementary School
+4145,3421,Whiteland Community High School
+4145,3422,Grassy Creek Elementary School
+4145,3423,Sawmill Woods Elementary School
+4145,3425,Whiteland Elementary School
+4145,3427,Clark Pleasant Middle School
+4145,3429,Break-O-Day Elementary School
+4145,3430,Pleasant Crossing Elementary
+4205,3434,Sugar Grove Elementary School
+4205,3435,Center Grove Elementary School
+4205,3437,Center Grove High School
+4205,3438,Walnut Grove Elementary School
+4205,3439,Maple Grove Elementary School
+4205,3440,North Grove Elementary School
+4205,3441,Center Grove Middle School Central
+4205,3443,Center Grove Middle School North
+4205,3444,Pleasant Grove Elementary School
+4215,3447,Edinburgh Community High School
+4215,3449,Edinburgh Comm Middle School
+4215,3452,East Side Elementary School
+4225,3413,Needham Elementary School
+4225,3433,Union Elementary School
+4225,3445,Franklin Community High School
+4225,3457,Franklin Community Middle School
+4225,3458,Custer Baker Intermediate School
+4225,3461,Northwood Elementary School
+4225,3465,Webb Elementary School
+4225,3467,Creekside Elementary School
+4245,3473,Greenwood Community High Sch
+4245,3475,Greenwood Middle School
+4245,3477,Greenwood Northeast Elementary Sch
+4245,3479,Westwood Elementary School
+4245,3481,V O Isom Central Elem School
+4245,3483,Southwest Elementary School
+4255,3409,Indian Creek Elementary School
+4255,3411,Indian Creek Intermediate School
+4255,3418,Indian Creek Middle School
+4255,3419,Indian Creek Sr High School
+4315,3521,North Knox Primary School
+4315,3537,North Knox Jr-Sr High School
+4315,3545,North Knox Intermediate
+4325,3489,South Knox Elementary School
+4325,3490,South Knox Middle-High School
+4335,3509,Benjamin Franklin Elementary Sch
+4335,3553,Lincoln High School
+4335,3557,George Rogers Clark School
+4335,3573,James Whitcomb Riley Elem Sch
+4335,3577,Tecumseh-Harrison Elementary Sch
+4335,3581,Francis Vigo Elementary School
+4335,4319,Washington Learning Academy
+4345,3625,North Webster Elementary School
+4345,3630,Wawasee Middle School
+4345,3635,Milford School
+4345,3637,Syracuse Elementary School
+4345,3639,Wawasee High School
+4415,3589,Claypool Elementary School
+4415,3607,Lakeview Middle School
+4415,3608,Eisenhower Elementary School
+4415,3610,Harrison Elementary School
+4415,3613,Leesburg Elementary School
+4415,3647,Warsaw Community High School
+4415,3653,Edgewood Middle School
+4415,3661,Jefferson Elementary School
+4415,3665,Lincoln Elementary School
+4415,3673,Madison Elementary School
+4415,3677,Washington Elementary School
+4445,2139,Akron Elementary School
+4445,3602,Tippecanoe Valley High School
+4445,3603,Mentone Elementary School
+4445,3619,Tippecanoe Valley Middle School
+4455,3642,Pierceton Elementary School
+4455,4450,Whitko Career Academy
+4455,9173,South Whitley Elementary School
+4455,9191,Whitko Jr/Sr High School
+4515,3686,Prairie Heights Elementary School
+4515,3688,Prairie Heights Middle School
+4515,3690,Prairie Heights Sr High School
+4525,3697,Westview Jr-Sr High School
+4525,3698,Topeka Elementary School
+4525,3702,Westview Elementary School
+4525,3704,Meadowview Elementary School
+4525,3714,Shipshewana-Scott Elementary Sch
+4535,3730,Lakeland Jr/Sr High School
+4535,3732,Lakeland Primary School
+4535,3739,Lakeland Intermediate School
+4535,3742,Wolcott Mills Elementary School
+4535,3746,Lima - Brighton Elementary
+4580,3781,Jane Ball Elementary School
+4580,3782,Lincoln Elementary School
+4580,3784,Hanover Central Middle School
+4580,3785,Hanover Central High School
+4590,3791,River Forest High School
+4590,3797,Henry S Evans Elementary School
+4590,3801,River Forest Middle School
+4590,3805,John I Meister Elementary School
+4600,3809,Merrillville High School
+4600,3811,Pierce Middle School
+4600,3813,Merrillville Intermediate School
+4600,3821,Henry P Fieler Elementary School
+4600,3822,Homer Iddings Elementary School
+4600,3826,Edgar L Miller Elementary School
+4600,3827,John Wood Elementary School
+4600,3829,Jonas E Salk Elementary School
+4615,3831,Michael Grimmer Middle School
+4615,3833,Lake Central High School
+4615,3837,Kolling Elementary School
+4615,3838,Hal E Clark Middle School
+4615,3839,George Bibich Elementary School
+4615,3840,James H Watson Elementary School
+4615,3841,Kahler Middle School
+4615,3843,Protsman Elementary School
+4615,4349,Homan Elementary School
+4615,4351,Peifer Elementary School
+4645,3753,Oak Hill Elementary School
+4645,3845,Lake Prairie Elementary School
+4645,3848,Three Creeks Elem School
+4645,3851,Lowell Middle School
+4645,3865,Lowell Senior High School
+4650,3869,Calumet New Tech High School
+4650,3885,Longfellow New Tech Elementary Sch
+4650,3893,Lake Ridge New Tech Middle School
+4660,3761,Robert Taft Middle School
+4660,3769,Douglas MacArthur Elem School
+4660,3773,Dwight D Eisenhower Elem School
+4660,3854,Winfield Elementary School
+4660,3901,Crown Point High School
+4660,3903,Lake Street Elementary School
+4660,3905,Solon Robinson Elementary School
+4660,3907,Jerry Ross Elementary School
+4660,3913,Timothy Ball Elementary School
+4660,3915,Colonel John Wheeler Middle School
+4670,3924,East Chicago Central High School
+4670,3937,Carrie Gosch PK Center
+4670,3941,Benjamin Harrison Elementary Sch
+4670,3945,Abraham Lincoln Elementary School
+4670,3953,William McKinley Elementary School
+4670,3961,George Washington Elementary Sch
+4670,3963,Joseph Block Middle School
+4680,3965,Thomas A Edison Jr-Sr HS
+4680,3973,Alexander Hamilton Elementary Sch
+4680,3975,Virgil I Bailey Elementary School
+4690,4053,Banneker Elementary at Marquette
+4690,4057,Mary M Bethune Early Child Dev Ctr
+4690,4061,Beveridge Elementary School
+4690,4086,Frankie Woods McCullough Academy
+4690,4105,Bailly Middle School
+4690,4151,Gary Career Center
+4690,4155,Glen Park Acad for Excel in Lrn
+4690,4163,West Side Leadership Academy
+4690,4169,Daniel Hale Williams Elem Sch
+4690,4178,Gary Middle School 
+4700,4171,Beiriger Elementary School
+4700,4173,Griffith High School
+4700,4177,Griffith Middle School
+4700,4189,Elsie Wadsworth Elementary School
+4710,4411,George Rogers Clark Md/HS
+4710,4413,Donald E Gavit Middle/High School
+4710,4415,Hammond High School
+4710,4417,Morton Senior High School
+4710,4419,Area Career Center
+4710,4422,Joseph Hess Elementary School
+4710,4425,Henry W Eggers Middle School
+4710,4433,Charles N Scott Middle School
+4710,4449,Thomas A Edison Elementary School
+4710,4451,Benjamin Franklin Elementary Sch
+4710,4453,Warren G Harding Elementary School
+4710,4455,Washington Irving Elementary Sch
+4710,4457,Thomas Jefferson Elementary School
+4710,4459,Kenwood Elementary School
+4710,4463,Abraham Lincoln Elementary School
+4710,4465,Maywood Elementary School
+4710,4469,Morton Elementary School
+4710,4479,Lew Wallace Elementary School
+4710,4484,Frank O'Bannon Elementary School
+4720,4281,Highland High School
+4720,4283,Highland Middle School
+4720,4285,Judith Morton Johnston Elementary
+4720,4290,Mildred Merkley Elementary School
+4720,4301,Southridge Elementary School
+4720,4303,Allen J Warren Elementary School
+4730,4305,Hobart High School
+4730,4309,Hobart Middle School
+4730,4311,Early Learning Center-George Earle
+4730,4317,Liberty Elementary School
+4730,4325,Veterans Elementary School at Mundell
+4730,4327,Joan Martin Elementary School
+4740,4332,Munster High School
+4740,4333,Wilbur Wright Middle School
+4740,4337,James B Eads Elementary School
+4740,4341,Ernest R Elliott Elementary School
+4740,4343,Frank H Hammond Elementary School
+4760,4353,Whiting High School
+4760,4356,Whiting Middle School
+4760,4361,Nathan Hale Elementary School
+4805,4679,Prairie View Elementary School
+4805,4689,New Prairie High School
+4805,4693,Rolling Prairie Elementary School
+4805,7345,New Prairie Middle School
+4805,7349,Olive Township Elementary School
+4860,4699,Westville Elementary School
+4860,4701,Westville High School
+4915,4692,LaCrosse School
+4915,4696,Wanatah School
+4925,4373,Coolspring Elementary School
+4925,4713,Springfield Elementary School
+4925,4788,Martin T Krueger Middle School
+4925,4789,Barker Middle School
+4925,4792,A K Smith Area Career Center
+4925,4795,Michigan City High School
+4925,4805,Edgewood Elementary School
+4925,4811,Lake Hills Elementary School
+4925,4821,Joy Elementary School
+4925,4825,Knapp Elementary School
+4925,4829,Niemann Elementary School
+4925,4833,Marsh Elementary School
+4925,6829,Pine Elementary School
+4940,4734,South Central Elementary School
+4940,4737,South Central Jr-Sr High School
+4945,4707,Indian Trail Elementary School
+4945,4717,Kesling Intermediate School
+4945,4721,Kingsford Heights Elementary Sch
+4945,4727,Kingsbury Elementary School
+4945,4741,LaPorte High School
+4945,4742,LaPorte Middle School
+4945,4749,Hailmann Elementary School
+4945,4753,F Willard Crichfield Elementary
+4945,4757,Lincoln Elementary School
+4945,4767,Riley Elementary School
+4945,4773,Handley Elementary School
+5075,4864,Needmore Elementary School
+5075,4885,Oolitic School
+5075,4889,Shawswick Elementary School
+5075,4905,Bedford Middle School
+5075,4909,Lincoln Elementary School
+5075,4911,Bedford-North Lawrence High School
+5075,4931,North Lawrence Career Center
+5075,4932,Parkview Elementary School
+5085,4861,Burris Elementary School
+5085,4863,Hatfield Elementary School
+5085,4924,Mitchell Jr High School
+5085,4925,Mitchell High School
+5245,5005,Frankton Jr-Sr High School
+5245,5009,Frankton Elementary School
+5245,5011,Lapel Sr High School
+5245,5012,Lapel Middle School
+5245,5025,Lapel Elementary School
+5255,4935,East Elementary School
+5255,5053,Pendleton Heights High School
+5255,5057,Pendleton Heights Middle School
+5255,5061,Pendleton Elementary School
+5255,5064,Maple Ridge Elementary School
+5265,5041,Alexandria-Monroe High School
+5265,5065,Alexandria Monroe Elementary School
+5265,5069,Alexandria Monroe Academy and Central Office
+5275,4906,COMPASS Alternative School 
+5275,4945,Anderson High School
+5275,4953,Edgewood Elementary School
+5275,4967,Anderson Intermediate School
+5275,4977,Tenth Street Elementary School
+5275,5023,Southview Preschool Center
+5275,5033,Valley Grove Elementary School
+5275,5076,Highland Middle School
+5275,5102,Eastside Elementary School
+5275,5142,Anderson Elementary School
+5275,5146,Erskine Elementary School
+5280,5149,Elwood Jr-Sr High School
+5280,5151,Elwood Intermediate School
+5280,5157,Elwood Elementary School
+5280,5175,John H Hinds Career Center
+5300,5177,Decatur Central High School
+5300,5178,Gold Academy
+5300,5179,Blue Academy
+5300,5181,Decatur Middle School
+5300,5185,Stephen Decatur Elementary School
+5300,5187,Valley Mills Elementary School
+5300,5188,Decatur Twp School for Excellence
+5300,5189,West Newton Elementary School
+5300,5192,Liberty Early Elementary School
+5310,5193,Franklin Central High School
+5310,5194,South Creek Elementary
+5310,5195,Franklin Central Junior High
+5310,5198,Thompson Crossing Elementary Sch
+5310,5200,Mary Adams Elementary School
+5310,5201,Acton Elementary School
+5310,5202,Arlington Elementary School
+5310,5205,Bunker Hill Elementary School
+5310,5207,Lillie Idella Kitley Intermediate
+5310,5210,Edgewood Intermediate School
+5310,5317,Wanamaker Early Learning Center
+5330,5275,Lawrence Central High School
+5330,5276,Lawrence North High School
+5330,5277,Belzer Middle School
+5330,5281,Brook Park Elementary School
+5330,5283,Mary Evelyn Castle Elementary Sch
+5330,5284,Early Learning Center
+5330,5285,Crestview Elementary School
+5330,5287,Amy Beverland Elementary
+5330,5289,Harrison Hill Elementary School
+5330,5291,Fall Creek Valley Middle School
+5330,5293,Indian Creek Elementary School
+5330,5294,Forest Glen Elementary School
+5330,5295,Winding Ridge Elementary School
+5330,5296,Oaklandon Elementary School
+5330,5298,Skiles Test Elementary School
+5330,5299,Sunnyside Elementary School
+5330,5303,McKenzie Career Center
+5340,5307,Perry Meridian High School
+5340,5309,Southport High School
+5340,5310,Southport 6th Grade Academy
+5340,5312,Perry Meridian 6th Grade Academy
+5340,5315,Southport Middle School
+5340,5319,Perry Meridian Middle School
+5340,5321,William Henry Burkhart Elementary
+5340,5322,Mary Bryan Elementary School
+5340,5325,Clinton Young Elementary School
+5340,5333,Glenns Valley Elementary School
+5340,5337,Abraham Lincoln Elementary School
+5340,5338,Douglas MacArthur Elementary Sch
+5340,5345,Homecroft Elementary School
+5340,5347,Southport Elementary School
+5340,5351,Winchester Village Elementary
+5340,5366,Jeremiah Gray Elementary School
+5340,5372,Rosa Parks Elementary School
+5350,5349,Fishback Creek Public Academy
+5350,5352,Deer Run Elementary
+5350,5353,Pike High School
+5350,5354,College Park Elementary School
+5350,5355,Lincoln Middle School
+5350,5356,Guion Creek Middle School
+5350,5357,Central Elementary School
+5350,5358,Eagle Creek Elementary School
+5350,5359,Eastbrook Elementary School
+5350,5360,Guion Creek Elementary School
+5350,5363,Snacks Crossing Elementary School
+5350,5378,New Augusta Public Academy - South
+5350,5380,New Augusta Public Academy - North
+5360,5361,Warren Central High School
+5360,5364,Creston Intermediate & Middle Schl
+5360,5367,Stonybrook Intermediate & Middle
+5360,5368,Raymond Park Intermediate & Middle
+5360,5369,Eastridge Elementary School
+5360,5370,Hawthorne Elementary School
+5360,5373,Grassy Creek Elementary School
+5360,5375,Lakeside Elementary School
+5360,5377,Lowell Elementary School
+5360,5386,Pleasant Run Elementary School
+5360,5389,Sunny Heights Elementary School
+5360,5391,Brookview Elementary School
+5360,5393,Walker Career Center
+5360,5395,Warren Early Childhood Center
+5360,5397,Liberty Park Elementary School
+5370,5403,Allisonville Elementary School
+5370,5406,Crooked Creek Elementary School
+5370,5407,Clearwater Elementary School
+5370,5408,Willow Lake Elementary School
+5370,5418,Greenbriar Elementary School
+5370,5427,Nora Elementary School
+5370,5430,Spring Mill Elementary School
+5370,5434,Hilltop School
+5370,5436,Fox Hill Elementary School
+5370,5442,Eastwood Middle School
+5370,5445,Northview Middle School
+5370,5448,Westlane Middle School
+5370,5450,J Everett Light Career Center
+5370,5451,North Central High School
+5375,5213,Ben Davis High School
+5375,5219,Ben Davis Ninth Grade Center
+5375,5221,Chapel Hill 7th & 8th Grade Center
+5375,5222,Lynhurst 7th & 8th Grade Center
+5375,5223,Maplewood Elementary School
+5375,5227,Chapel Glen Elementary School
+5375,5241,Garden City Elementary School
+5375,5252,Area 31 Career & Tech Center
+5375,5257,McClelland Elementary School
+5375,5261,Rhoades Elementary School
+5375,5265,Robey Elementary School
+5375,5267,North Wayne Elementary School
+5375,5270,Stout Field Elementary School
+5375,5271,Sanders School
+5375,5273,Westlake Elementary School
+5375,5274,Chapelwood Elementary School
+5375,5288,Achieve Virtual Education Academy
+5375,5446,Bridgeport Elementary School
+5375,5447,Ben Davis University High School
+5380,5449,Beech Grove Sr High School
+5380,5453,Beech Grove Middle School
+5380,5457,Central Elementary School
+5380,5461,South Grove Intermediate School
+5380,5463,Hornet Park Elementary School
+5385,108,Impact Academy
+5385,109,Thrival Academy
+5385,5462,Arsenal Technical High School
+5385,5466,Arlington Community Middle School
+5385,5467,HW Longfellow Med/STEM Magnet Midl
+5385,5474,Crispus Attucks High School
+5385,5482,Emmerich Manual High School
+5385,5492,Shortridge High School
+5385,5498,Cold Spring School
+5385,5515,Thomas D Gregg School 15
+5385,5516,Northwest Community Middle School
+5385,5531,James A Garfield School 31
+5385,5534,Eleanor Skillen School 34
+5385,5538,Center for Inquiry School 70
+5385,5539,William McKinley School 39
+5385,5543,James Whitcomb Riley School 43
+5385,5544,Riverside School 44
+5385,5546,Daniel Webster School 46
+5385,5549,William Penn School 49
+5385,5551,James Russell Lowell School 51
+5385,5554,Brookside School 54
+5385,5555,IPS/Butler Lab at Eliza Blaker 55
+5385,5556,Francis W Parker School 56
+5385,5557,George W Julian School 57
+5385,5558,Ralph Waldo Emerson School 58
+5385,5560,IPS/Butler Lab at William Bell 60
+5385,5565,Raymond F Brandes School 65
+5385,5570,Edison School of the Arts 47
+5385,5572,Emma Donnan Middle School
+5385,5574,Theodore Potter School 74
+5385,5577,Merle Sidener Gifted Academy
+5385,5579,Carl Wilde School 79
+5385,5582,Christian Park School 82
+5385,5583,Floro Torrence School 83
+5385,5587,George Washington Carver School 87
+5385,5588,Anna Brochhausen School 88
+5385,5590,Ernie Pyle School 90
+5385,5591,Rousseau McClellan School 91
+5385,5596,Meredith Nicholson School 96
+5385,5601,H L Harshman Middle School
+5385,5602,Francis Bellamy Pre-School Center
+5385,5605,Charles Warren Fairbanks Sch 105
+5385,5606,Robert Lee Frost School 106
+5385,5607,Lew Wallace School 107
+5385,5609,Jonathan Jennings School 109
+5385,5614,Paul I Miller School 114
+5385,5618,Gambold Pre-School
+5385,5619,George S Buck School 94
+5385,5623,Arlington Woods School 99
+5385,5635,Center For Inquiry School 2
+5385,5644,George Washington High School
+5385,5659,Center for Inquiry School 84
+5385,5662,Clarence Farrington School 61
+5385,5668,Center for Inquiry School 27
+5385,5674,Frederick Douglass School 19
+5400,5889,Speedway Junior High School
+5400,5891,Speedway Senior High School
+5400,5893,James A Allison Elementary Sch 3
+5400,5897,Carl G Fisher Elementary School 1
+5400,5901,Arthur C Newby Elementary School 2
+5400,5905,Frank H Wheeler Elementary Sch 4
+5455,5245,Culver Community Middle/High Sch
+5455,5928,Culver Elementary School
+5470,5936,Argos Community Elementary
+5470,5937,Argos Comm Jr-Sr High School
+5480,5941,Bremen Senior High School
+5480,5943,Bremen Elementary/Middle School
+5485,5933,Menominee Elementary School
+5485,5945,Plymouth High School
+5485,5949,Lincoln Junior High School
+5485,5956,Riverside Intermediate
+5485,5961,Jefferson Elementary School
+5485,5965,Washington Discovery Academy
+5485,5969,Webster Elementary School
+5495,5922,Triton Elementary School
+5495,5923,Triton Jr-Sr High School
+5520,5985,Shoals Community High School
+5520,5989,Shoals Community Elementary School
+5520,5991,Shoals Middle School
+5525,5997,Loogootee Elementary School
+5525,6001,Loogootee Middle School
+5525,6003,Loogootee High School
+5615,6012,Pipe Creek Elementary School
+5615,6032,Maconaquah High School
+5615,6033,Maconaquah Middle School
+5615,6035,Maconaquah Elementary School
+5620,6049,North Miami Middle/High School
+5620,6051,North Miami Elementary School
+5625,2305,Oak Hill Junior High School
+5625,2306,Swayzee Elementary School
+5625,6069,Oak Hill High School
+5625,6073,Converse Elementary School
+5625,6081,Sweetser Elementary School
+5635,6085,Peru High School
+5635,6089,Peru Junior High School
+5635,6093,Blair Pointe Upper Elementary
+5635,6097,Elmwood Primary Learning Center
+5705,6144,Edgewood Early Childhood Center
+5705,6146,Edgewood High School
+5705,6147,Edgewood Junior High School
+5705,6148,Forest Hills Spec Educ Coop
+5705,6151,Edgewood Primary School
+5705,6153,Edgewood Intermediate School
+5740,6123,Unionville Elementary School
+5740,6134,Lakeview Elementary School
+5740,6157,Grandview Elementary School
+5740,6162,Highland Park Elementary School
+5740,6164,Summit Elementary School
+5740,6166,Bloomington High School South
+5740,6168,Bloomington High School North
+5740,6170,Tri-North Middle School
+5740,6172,Lora L Batchelor Middle School
+5740,6173,Binford Elementary School
+5740,6181,Arlington Heights Elementary Sch
+5740,6187,Childs Elementary School
+5740,6189,Clear Creek Elementary School
+5740,6197,Fairview Elementary School
+5740,6198,Hoosier Hills Career Center
+5740,6199,Hoosier Hills Childcare Center
+5740,6202,The Acad of Sci & Entrepreneurship
+5740,6213,Marlin Elementary School
+5740,6217,Rogers Elementary School
+5740,6220,Bloomington Graduation School
+5740,6223,Jackson Creek Middle School
+5740,6225,Templeton Elementary School
+5740,6226,University Elementary School
+5740,6312,Early Learning Center
+5835,6240,Pleasant Hill Elementary School
+5835,6243,Lester B Sommer Elementary School
+5835,6244,North Montgomery Middle School
+5835,6246,Sugar Creek Elementary School
+5835,6271,North Montgomery High School
+5845,6233,Ladoga Elementary School
+5845,6257,Southmont Sr High School
+5845,6258,Walnut Elementary School
+5845,6261,Southmont Jr High School
+5845,6269,New Market Elementary School
+5855,6277,Crawfordsville Sr High School
+5855,6281,Crawfordsville Middle School
+5855,6289,Mollie B Hoover Elementary School
+5855,6293,Laura Hose Elementary School
+5855,6301,Meredith Nicholson Elementary Sch
+5855,6305,Anna Willson School
+5900,6315,Monrovia Middle School
+5900,6321,Monrovia High School
+5900,6323,Monrovia Elementary School
+5910,6325,Eminence Jr-Sr High School
+5910,6327,Eminence Elementary School
+5925,6309,Green Township Elementary School
+5925,6329,Martinsville High School
+5925,6332,John R. Wooden Middle School
+5925,6334,Bell Intermediate Academy
+5925,6337,Brooklyn STEM Academy
+5925,6341,Centerton Elementary School
+5925,6344,South Elementary School of Communications
+5925,6349,Charles L Smith Fine Arts Academy
+5925,6357,Paragon Elementary School
+5925,6361,Poston Road Elementary School
+5930,6369,Mooresville High School
+5930,6373,Paul Hadley Middle School
+5930,6375,Neil Armstrong Elementary School
+5930,6381,Newby Memorial Elementary School
+5930,6385,North Madison Elementary School
+5930,6387,Northwood Elementary School
+5930,6393,Waverly Elementary School
+5945,6397,Morocco Elementary School
+5945,6405,Lake Village Elementary School
+5945,6409,Lincoln Elementary School
+5945,6411,North Newton Jr-Sr High School
+5995,6417,South Newton Senior High School
+5995,6431,South Newton Elementary School
+5995,6433,South Newton Middle School
+6055,6442,Central Noble Primary School
+6055,6453,Central Noble Junior Senior HS
+6055,6454,Central Noble Elementary School
+6060,6457,Avilla Elementary School
+6060,6458,East Noble High School
+6060,6461,East Noble Middle School
+6060,6465,Rome City Elementary School
+6060,6477,North Side Elementary School
+6060,6478,South Side Elementary School
+6060,6485,Wayne Center Elem School
+6065,6489,West Noble High School
+6065,6491,West Noble Primary School
+6065,6509,West Noble Middle School
+6065,6510,West Noble Elementary School
+6080,6511,Ohio County Elementary School
+6080,6512,Ohio County Middle School
+6080,6513,Rising Sun High School
+6145,6573,Orleans Jr-Sr High School
+6145,6577,Orleans Elementary School
+6155,6581,Paoli Jr & Sr High School
+6155,6587,Throop Elementary School
+6160,6589,Springs Valley Comm High School
+6160,6591,Springs Valley Elementary School
+6195,6597,Owen Valley Middle School
+6195,6601,Patricksburg Elementary School
+6195,6605,Gosport Elementary School
+6195,6613,Owen Valley Community High School
+6195,6617,Spencer Elementary School
+6195,6619,McCormick's Creek Elementary Sch
+6260,6621,Rosedale Elementary School
+6260,6627,Riverton Parke Jr-Sr High School
+6260,6629,Montezuma Elementary School
+6325,6705,Perry Central Elementary School
+6325,6708,Perry Central Jr-Sr High School
+6340,6733,Cannelton Elementary & High School
+6350,6741,Tell City Jr-Sr High School
+6350,6745,William Tell Elementary School
+6375,6645,Rockville Elementary School
+6375,6647,Turkey Run Elementary School
+6375,6652,Parke Heritage Middle School
+6375,6654,Parke Heritage High School
+6445,6763,Pike Central High School
+6445,6768,Pike Central Middle School
+6445,6808,Winslow Elementary School
+6445,6809,Petersburg Elementary School
+6460,6813,Hebron High School
+6460,6814,Hebron Middle School
+6460,6815,Hebron Elementary School
+6470,6817,Jackson Elementary School
+6470,6819,Brummitt Elementary School
+6470,6821,Liberty Intermediate School
+6470,6823,Liberty Elementary School
+6470,6925,Chesterton Senior High School
+6470,6927,Westchester Intermediate School
+6470,6928,Bailly Elementary School
+6470,6930,Chesterton Middle School
+6470,6941,Newton Yost Elementary School
+6510,6825,Morgan Township Middle/High School
+6510,6828,Morgan Township Elementary School
+6510,6833,Kouts Middle/High School
+6510,6835,Kouts Elementary School
+6510,6849,Washington Twp Middle/High School
+6510,6852,Washington Twp Elementary School
+6520,6837,Boone Grove Elementary School
+6520,6838,Boone Grove High School
+6520,6839,Boone Grove Middle School
+6520,6840,Porter Lakes Elementary School
+6530,6841,Wheeler High School
+6530,6843,Union Township Middle School
+6530,6845,Union Center Elementary School
+6530,6846,John Simatovich Elementary School
+6550,6853,Portage High School
+6550,6857,Wallace Aylesworth Elementary
+6550,6859,William Fegely Middle School
+6550,6861,Crisman Elementary School
+6550,6865,Central Elementary School
+6550,6869,Ethel R Jones Elementary School
+6550,6871,Willowcreek Middle School
+6550,6874,Rowena Kyle Elementary School
+6550,6876,Paul Saylor Elementary School
+6550,6877,George L Myers Elementary School
+6550,6879,South Haven Elementary School
+6560,6881,Valparaiso High School
+6560,6885,Benjamin Franklin Middle School
+6560,6887,Thomas Jefferson Middle School
+6560,6888,Thomas Jefferson Elementary School
+6560,6891,Central Elementary School
+6560,6893,Flint Lake Elementary School
+6560,6897,Cooks Corners Elementary School
+6560,6903,Heavilin Elementary School
+6560,6913,Memorial Elementary School
+6560,6917,Northview Elementary School
+6560,6921,Parkview Elementary School
+6560,6922,Porter County Career Center
+6590,6949,Mount Vernon High School
+6590,6953,Mount Vernon Jr High School
+6590,6961,West Elementary School
+6590,6965,Farmersville Elementary School
+6590,6969,Marrs Elementary School
+6600,6973,North Posey Junior High School
+6600,6975,North Posey High School
+6600,6985,North Elementary School
+6600,6989,South Terrace Elementary
+6620,6994,Eastern Pulaski Elementary School
+6620,6996,Winamac Community Middle School
+6620,6997,Winamac Community High School
+6630,7025,West Central Senior High School
+6630,7027,West Central Elementary School
+6630,7031,West Central Middle School
+6705,7055,Central Elementary School
+6705,7056,South Putnam Middle School
+6705,7057,Fillmore Elementary School
+6705,7071,South Putnam High School
+6715,7041,Bainbridge Elementary School
+6715,7045,Roachdale Elementary School
+6715,7049,North Putnam Middle School
+6715,7061,North Putnam Sr High School
+6750,7077,Cloverdale High School
+6750,7082,Cloverdale Elementary School
+6750,7085,Cloverdale Middle School
+6755,7089,Greencastle Senior High School
+6755,7093,Greencastle Middle School
+6755,7102,Tzouanakis Intermediate School
+6755,7105,Martha J Ridpath Elementary School
+6755,7107,Deer Meadow Primary School
+6795,7117,Union Elementary School
+6795,7119,Union Junior & High School
+6795,7122,Indiana Digital Elementary
+6795,7131,Indiana Digital JR and High School
+6795,7142,Indiana Digital Alternative School
+6805,7113,Randolph Southern Elementary Sch
+6805,7121,Randolph Southern Jr-Sr High Sch
+6820,7151,Monroe Central Jr-Sr High School
+6820,7152,Monroe Central Elementary School
+6825,7125,Winchester Community High School
+6825,7129,Lee L Driver Middle School
+6825,7133,O R Baker Elementary School
+6825,7145,Willard Elementary School
+6825,7146,Deerfield Elementary School
+6835,7161,Union City Community Jr/Sr High 
+6835,7164,North Side Elementary School
+6865,7174,South Ripley Junior High School
+6865,7178,South Ripley Elementary School
+6865,7182,South Ripley High School
+6895,7217,Batesville High School
+6895,7218,Batesville Primary School
+6895,7219,Batesville Middle School
+6895,7229,Batesville Intermediate School
+6900,7193,Jac-Cen-Del MS/HS
+6900,7203,Jac-Cen-Del Elementary School
+6910,7205,Milan High School
+6910,7207,Milan Middle School
+6910,7209,Milan Elementary School
+6910,7212,Milan Intermediate School
+6995,7233,Milroy Elementary School
+6995,7253,Arlington Elementary School
+6995,7271,Rushville Elementary School East
+6995,7272,Rushville Elementary School West
+6995,7285,Rushville Consolidated High School
+6995,7290,Benjamin Rush Middle School
+7150,5916,Harold C Urey Middle School
+7150,7453,John Glenn High School
+7150,7456,North Liberty School
+7150,7457,Walkerton Elementary School
+7175,7323,Walt Disney Elementary School
+7175,7324,Prairie Vista Elementary School
+7175,7329,Mary Frank Harris Elementary Sch
+7175,7334,Schmucker Middle School
+7175,7336,Virgil I Grissom Middle School
+7175,7341,Madison Elementary School
+7175,7353,Penn High School
+7175,7361,Elm Road Elementary School
+7175,7365,Elsie Rogers Elementary School
+7175,7372,Discovery Middle School
+7175,7377,Moran Elementary School
+7175,7379,Bittersweet Elementary School
+7175,7383,Horizon Elementary School
+7175,7386,Meadow's Edge Elementary School
+7175,7390,Northpoint Elementary School
+7200,7459,Fred J Hums Elementary School
+7200,7461,Mishawaka High School
+7200,7465,John J Young Middle School
+7200,7467,Oaklawn Campus Program
+7200,7469,Battell Elementary School
+7200,7473,Beiger Elementary School
+7200,7478,Liberty Elementary School
+7200,7481,Emmons Elementary School
+7200,7485,Lasalle Elementary School
+7200,7499,Twin Branch Elementary School
+7205,7248,South Bend Virtual School
+7205,7313,Hay Elementary School
+7205,7417,Warren Elementary School
+7205,7421,Clay High School
+7205,7425,Clay International Academy
+7205,7435,Darden Elementary School
+7205,7441,Swanson Traditional School
+7205,7505,Adams High School
+7205,7510,Jackson Middle School
+7205,7512,LaSalle Academy
+7205,7513,Riley High School
+7205,7517,Washington High School
+7205,7533,Coquillard Elementary School 
+7205,7534,Rise Up Academy at Eggleston
+7205,7537,Edison Middle School
+7205,7545,Harrison Elementary School
+7205,7546,Marshall Traditional School
+7205,7549,Jefferson Traditional School
+7205,7555,Kennedy Academy
+7205,7557,Lafayette Early Childhood Center
+7205,7559,Dickinson Fine Arts Academy
+7205,7561,Lincoln Elementary School
+7205,7569,McKinley Elementary School
+7205,7573,Madison S.T.E.A.M. Academy 
+7205,7577,Marquette Montessori Academy
+7205,7585,Monroe Elementary School
+7205,7588,Wilson Elementary School
+7205,7593,Muessel Elementary School
+7205,7597,Navarre Middle School
+7205,7601,Nuner Fine Arts Academy
+7205,7605,South Bend SNAP
+7205,7617,Studebaker Center
+7205,7621,Tarkington Elementary School
+7205,7632,Juvenile Justice Center
+7215,7399,LaVille Jr-Sr High School
+7215,7400,LaVille Elementary School
+7230,7629,Austin High School
+7230,7630,Austin Elementary School
+7230,7631,Austin Middle School
+7255,7633,Johnson Elementary School
+7255,7637,Lexington Elementary School
+7255,7641,Scottsburg Senior High School
+7255,7645,Scottsburg Middle School
+7255,7649,Scottsburg Elem School
+7255,7653,Vienna-Finley Elementary School
+7285,7661,Morristown Jr-Sr High School
+7285,7663,Morristown Elementary School
+7285,7665,Waldron Jr-Sr High School
+7285,7667,Waldron Elementary School
+7350,7689,Triton Central High School
+7350,7691,Triton Central Elementary School
+7350,7697,Triton Central Middle School
+7360,7701,Southwestern High School
+7360,7703,Southwestern Elementary School
+7365,7671,Especially Kidz Health & Rehab Cnt
+7365,7717,Shelbyville Sr High School
+7365,7721,Shelbyville Middle School
+7365,7723,Golden Bear Preschool
+7365,7725,Coulston Elementary School
+7365,7729,Thomas A Hendricks Elementary Sch
+7365,7733,William F Loper Elementary School
+7385,7751,Chrisney Elementary School
+7385,7753,David Turnham Education Center
+7385,7755,Nancy Hanks Elementary School
+7385,7759,Heritage Hills High School
+7385,7761,Heritage Hills Middle School
+7385,7767,Lincoln Trail Elementary School
+7445,7789,Luce Elementary School
+7445,7795,South Spencer High School
+7445,7797,South Spencer Middle School
+7445,7803,Rockport-Ohio Elementary School
+7495,7818,Oregon-Davis Elementary School
+7495,7831,Oregon-Davis Jr-Sr High School
+7515,7849,N Judson-San Pierre Jr Sr High Sch
+7515,7851,North Judson-San Pierre Elem Sch
+7525,7833,Knox Community High School
+7525,7837,Knox Community Middle School
+7525,7845,Knox Community Elementary School
+7605,7877,Fremont High School
+7605,7881,Fremont Elementary School
+7605,7884,Fremont Middle School
+7610,7885,Hamilton Community High School
+7610,7889,Hamilton Community Elementary Sch
+7615,7893,Angola High School
+7615,7895,Angola Middle School
+7615,7897,Carlin Park Elementary School
+7615,7899,Ryan Park Elementary School
+7615,7901,Hendry Park Elementary School
+7615,7905,Pleasant Lake Elementary School
+7645,7917,North Central Jr/Sr High School
+7645,7921,Northeast North Elementary School
+7645,7941,Northeast East Elementary School
+7715,7953,Carlisle Elementary School
+7715,7954,Carlisle Middle School
+7715,7957,Sullivan High School
+7715,7961,Sullivan Middle School
+7715,7965,Sullivan Elementary School
+7775,7985,Jefferson-Craig Elementary School
+7775,7987,Switzerland Co Middle School
+7775,7993,Switzerland Co Senior High School
+7775,7994,Switzerland Co Elementary School
+7855,8015,Oakland High School
+7855,8069,Jefferson High School
+7855,8073,Lafayette Sunnyside Intermediate
+7855,8077,Lafayette Tecumseh Jr High School
+7855,8089,Edgelea Elementary School
+7855,8091,Glen Acres Elementary School
+7855,8103,Miami Elementary School
+7855,8104,Thomas Miller Elementary School
+7855,8105,Murdock Elementary School
+7855,8108,Oakland Elementary School
+7855,8117,Vinton Elementary School
+7855,8119,Amelia Earhart Elementary School
+7855,8125,Greater Lafayette Area SE
+7865,8003,McCutcheon High School
+7865,8005,Mayflower Mill Elementary School
+7865,8006,Wyandotte Elementary
+7865,8007,Hershey Elementary School
+7865,8008,Greater Lafayette Career Academy
+7865,8009,Mintonye Elementary School
+7865,8017,Dayton Elementary School
+7865,8019,Burnett Creek Elementary School
+7865,8021,Wea Ridge Elementary School
+7865,8024,Battle Ground Elementary School
+7865,8025,Battle Ground Middle School
+7865,8026,Wainwright Middle School
+7865,8029,William Henry Harrison High School
+7865,8033,East Tipp Middle School
+7865,8035,James Cole Elementary School
+7865,8041,Klondike Middle School
+7865,8042,Klondike Elementary School
+7865,8045,Southwestern Middle School
+7865,8049,Wea Ridge Middle School
+7865,8111,Woodland Elementary School
+7875,8129,West Lafayette Jr/Sr High School
+7875,8135,West Lafayette Intermediate School
+7875,8138,West Lafayette Elementary School
+7935,8154,Tri Central Elementary
+7935,8155,Tri Central Middle-High School
+7945,8163,Tipton Elementary School
+7945,8167,Tipton Middle School
+7945,8177,Tipton High School
+7950,8193,Union County High School
+7950,8206,Union County Middle School
+7950,8209,Liberty Elementary School
+7950,8213,College Corner Union Elem School
+7995,8225,Cynthia Heights Elementary School
+7995,8229,Scott Elementary School
+7995,8230,North Junior High School
+7995,8231,Oak Hill Elementary
+7995,8237,Benjamin Bosse High School
+7995,8241,Central High School
+7995,8242,McCutchanville Elementary School
+7995,8245,Francis Joseph Reitz High School
+7995,8251,Lincoln School
+7995,8253,North High School
+7995,8255,Southern Ind Career and Tech Cent
+7995,8261,Caze Elementary School
+7995,8265,Cedar Hall Community School
+7995,8270,Academy for Innovative Studies
+7995,8271,Harwood Career Prep High School
+7995,8285,Delaware Elementary School
+7995,8289,Dexter Elementary School
+7995,8293,Fairlawn Elementary School
+7995,8301,Glenwood Leadership Academy
+7995,8309,Harper Elementary School
+7995,8311,William Henry Harrison High School
+7995,8317,Hebron Elementary School
+7995,8318,Helfrich Park STEM Academy
+7995,8321,Stockwell Elementary School
+7995,8323,Thompkins Middle School
+7995,8325,Highland Elementary School
+7995,8326,New Tech Institute
+7995,8327,Culver Family Learning Center
+7995,8329,Lodge Community School
+7995,8339,McGary Middle School
+7995,8345,Perry Heights Middle School
+7995,8349,Plaza Park International Prep Acad
+7995,8353,Evans School
+7995,8357,Stringtown Elementary School
+7995,8361,Tekoppel Elementary School
+7995,8365,Vogel Elementary School
+7995,8369,Washington Middle School
+7995,8376,Daniel Wertz Elementary School
+7995,8381,West Terrace Elementary School
+8010,8394,North Vermillion High School
+8010,8403,North Vermillion Elementary School
+8020,8409,Central Elementary School
+8020,8431,Ernie Pyle Elementary School
+8020,8432,South Vermillion High School
+8020,8434,South Vermillion Middle School
+8020,8435,Van Duyn Elementary School
+8030,8441,Terre Haute North Vigo High School
+8030,8445,Honey Creek Middle School
+8030,8453,West Vigo High School
+8030,8457,Terre Haute South Vigo High School
+8030,8461,West Vigo Middle School
+8030,8477,Otter Creek Middle School
+8030,8481,Sarah Scott Middle School
+8030,8483,Vigo Virtual School Academy
+8030,8485,Woodrow Wilson Middle School
+8030,8497,Sugar Creek Consolidated Elem Sch
+8030,8505,Davis Park Elementary School
+8030,8509,Deming Elementary School
+8030,8510,Adelaide De Vaney Elementary Sch
+8030,8511,Dixie Bee Elementary School
+8030,8517,Farrington Grove Elementary School
+8030,8521,Fayette Elementary School
+8030,8525,Rio Grande Elementary School
+8030,8533,Benjamin Franklin Elem School
+8030,8537,Blanche E Fuqua Elementary School
+8030,8543,Hoosier Prairie Elementary School
+8030,8549,Lost Creek Elementary School
+8030,8561,Meadows Elementary School
+8030,8575,Ouabache Elementary School
+8030,8593,Riley Elementary School
+8030,8605,Sugar Grove Elementary School
+8030,8607,Terre Town Elementary School
+8030,8609,West Vigo Elementary School
+8030,8611,Booker T Washington Alt Sch
+8045,8625,Manchester Jr-Sr High School
+8045,8633,Manchester Elementary School
+8045,8645,Manchester Intermediate School
+8050,8651,Northfield Jr-Sr High School
+8050,8655,Southwood Jr-Sr High School
+8050,8656,Southwood Elementary School
+8050,8657,Sharp Creek Elementary School
+8050,8671,Wabash/Miami Area Prog Excpt
+8050,8673,White's Jr-Sr High School
+8050,8677,Metro North Elementary School
+8060,8693,Wabash High School
+8060,8694,Wabash Middle School
+8060,8706,O J Neighbours Elementary School
+8115,8729,Williamsport Elementary School
+8115,8733,Pine Village Elementary School
+8115,8737,Seeger Memorial Jr-Sr High School
+8115,8744,Warren Central Elementary School
+8130,8760,Castle South Middle School
+8130,8761,Yankeetown Elementary School
+8130,8764,John H Castle Elementary School
+8130,8769,Elberfeld Elementary School
+8130,8771,Tecumseh Middle School
+8130,8772,Tecumseh High School
+8130,8773,Lynnville Elementary School
+8130,8775,Castle North Middle School
+8130,8777,Loge Elementary School
+8130,8779,Warrick County Preschool
+8130,8785,Tennyson Elementary School
+8130,8789,Boonville High School
+8130,8793,Boonville Middle School
+8130,8801,Oakdale Elementary School
+8130,8809,Castle High School
+8130,8813,Chandler Elementary School
+8130,8817,Newburgh Elementary School
+8130,8819,Sharon Elementary School
+8205,8857,Salem High School
+8205,8861,Salem Middle School
+8205,8864,Bradie Shrum Elementary
+8215,8904,East Washington Elementary School
+8215,8905,Eastern High School
+8215,8906,East Washington Middle School
+8220,8869,West Washington Jr-Sr High School
+8220,8894,West Washington Elementary School
+8305,8985,Hagerstown Jr-Sr High School
+8305,8989,Hagerstown Elementary School
+8355,8961,Lincoln Sr High School
+8355,8965,Lincoln Middle School
+8355,8971,Western Wayne Elementary School
+8360,8981,Centerville Sr High School
+8360,8982,Centerville-Abington Jr High Sch
+8360,8983,Centerville-Abington Elem School
+8360,8984,Rose Hamilton Elementary School
+8375,8927,Northeastern High School
+8375,8928,Northeastern Elementary School
+8375,8929,Northeastern Middle School
+8385,8993,Richmond High School
+8385,8997,Test Intermediate School
+8385,9001,Dennis Intermediate School
+8385,9013,Charles Elementary School
+8385,9014,Crestdale Elementary School
+8385,9017,Fairview Elementary School
+8385,9038,Starr Elementary School
+8385,9045,Vaile Elementary School
+8385,9053,Westview Elementary School
+8385,9056,Community Youth Services
+8425,9057,Southern Wells Elementary School
+8425,9058,Southern Wells Jr-Sr High School
+8435,9081,Ossian Elementary
+8435,9085,Lancaster Central School
+8435,9087,Norwell High School
+8435,9088,Norwell Middle School
+8445,9089,Bluffton High School
+8445,9093,Bluffton-Harrison Middle School
+8445,9098,Bluffton-Harrison Elementary Sch
+8515,9119,North White Elementary School
+8515,9122,North White Middle School
+8515,9135,North White High School
+8525,9113,Frontier Elementary
+8525,9137,Frontier Jr-Sr High School
+8535,3170,Tri-County Primary School
+8535,9141,Tri-County Jr/Sr High School 
+8535,9143,Tri-County Intermediate School
+8565,9129,Eastlawn Elementary School
+8565,9149,Twin Lakes Senior High School
+8565,9153,Roosevelt Middle School
+8565,9157,Oaklawn Elementary School
+8565,9163,Meadowlawn Elementary School
+8625,9193,Churubusco Jr-Sr High School
+8625,9197,Churubusco Elementary School
+8635,7782,Purdue Polytechnic High Sch North
+8655,4209,Excel Center - Bloomington
+8665,9178,Little Turtle Elementary School
+8665,9179,Coesse School
+8665,9180,Indian Springs Middle School
+8665,9186,Northern Heights Elementary School
+8665,9187,Columbia City High School
+8665,9196,Mary Raber Elementary School
+8675,9532,Invent Learning Hub
+8685,5593,PLA at George H Fisher School 93
+8690,8692,Dynamic Minds Academy
+8940,9961,James and Rosemary Phalen Leadership Academy High School
+8950,5603,Phalen at Francis Scott Key 103
+8960,9963,Purdue Polytechnic High School South Bend
+8970,9966,GEO Next Generation Academy
+8980,9971,The PATH School
+8990,9991,HIM By HER Collegiate School for the Arts
+9000,9992,Phalen Virtual Leadership Academy
+9010,1806,Ignite Achievement Academy 
+9015,4271,Purdue Polytechnic High School Ind
+9030,2019,Otwell Miller Academy
+9035,7947,Indiana Connections Career Academy
+9040,7094,Avondale Meadows Middle School
+9045,4894,James & Rosemary Phalen Leadership Academy Middle School
+9050,2006,Excel Center - Clarksville
+9055,2018,Excel Center - Hammond
+9060,139,Paramount Cottage Home
+9065,1002,Allegiant Preparatory Academy
+9070,1003,Gary Middle College West
+9080,1004,Vanguard Collegiate of Indy
+9085,1006,pilotED Schools Bethel Park
+9090,1041,Matchbook Learning
+9095,9094,Urban ACT Academy
+9100,732,Logansport Juvenile Correctional
+9100,5055,Pendleton Juvenile Correctional
+9100,5452,LaPorte Juvenile Correctional
+9100,5616,Dept of Correction Adult Schools
+9115,1118,Kindezi Academy
+9120,2528,Insight School of Indiana
+9130,9993,Emma Donnan Elementary and Middle
+9135,9138,KIPP Indy Legacy High
+9140,9994,BELIEVE Circle City High School
+9145,1122,Riverside High School
+9150,1126,Circle City Prep Charter School
+9160,1016,Excel Center - Muncie 
+9165,7861,Paramount Englewood
+9170,9997,Rooted School Indianapolis
+9190,1024,Excel Center - Gary 
+9195,1039,Timothy L. Johnson Academy Middle 
+9305,9012,Excel Center - Richmond
+9310,1535,Charter School of the Dunes
+9315,8295,Signature School Inc
+9320,1536,Community Montessori
+9325,2524,Options Charter School - Carmel
+9325,2551,Options Charter School Noblesville
+9325,9329,Options Indiana
+9330,1537,Irvington Community School
+9335,5912,Excel Center - Lafayette Square
+9345,8094,Excel Center - Lafayette
+9350,1539,Timothy L Johnson Academy
+9355,2976,Excel Center - Kokomo
+9365,5667,Enlace Academy
+9380,5874,Christel House Academy South
+9385,5532,Christel House DORS
+9395,5871,Christel House Academy West
+9400,5860,KIPP Indy College Prep Middle
+9410,5741,KIPP Indy Unite Elementary
+9425,5621,Tindley Genesis Academy
+9430,5629,Tindley Summit Academy
+9445,6208,Charles A Tindley Accelerated Sch
+9460,4022,Thea Bowman Leadership Academy
+9465,7951,Rural Community Academy
+9485,5868,SE Neighborhood Sch of Excellence
+9495,8203,Joshua Academy
+9505,5472,Indiana Agriculture and Technology
+9535,4130,Gary Lighthouse Charter School
+9545,4164,21st Century Charter Sch of Gary
+9555,3935,East Chicago Urban Enterprise Acad
+9575,5523,Victory College Prep Academy
+9595,3971,East Chicago Lighthouse
+9605,C460,IN Sch for the Blind & Vis Imprd
+9610,C695,Indiana School For The Deaf
+9615,5488,Andrew J Brown Academy
+9620,1441,Burris Laboratory School
+9625,1443,Indiana Academy for Sci Math Hmn 
+9645,5716,Avondale Meadows Academy
+9650,5724,Herron High School
+9651,5304,"The Hope Academy, Inc."
+9665,2572,Geist Montessori Academy
+9670,5664,Indianapolis Metropolitan High Sch
+9680,5508,Paramount Brookside 
+9685,4043,Aspire Charter Academy
+9690,4711,Renaissance Academy Charter School
+9705,4486,Hammond Academy of Science & Tech
+9725,3312,Canaan Community Academy
+9730,6864,Neighbors' New Vistas High School
+9735,1518,Inspire Academy - A Sch of Inquiry
+9750,4904,Excel Center - Anderson
+9760,242,Smith Academy for Excellence
+9785,5837,IN Math & Science Academy
+9790,5092,Anderson Preparatory Academy
+9805,2527,Hoosier Academy - Indianapolis
+9835,6215,The Bloomington Project School
+9840,5749,Excel Center - University Heights
+9855,5748,Excel Center - Noblesville
+9870,6824,Discovery Charter School
+9875,771,Rock Creek Community Academy
+9880,7567,Career Academy High School
+9885,4027,Gary Middle College
+9895,5444,IN Math & Science Academy - North
+9900,7566,Excel Center - South Bend
+9905,7944,Indiana Connections Academy
+9910,5669,Excel Center For Adult Learners
+9920,5191,Damar Charter Academy
+9925,5496,Phalen Leadership Academy - IN Inc
+9935,5899,Vision Academy
+9950,7952,Dugger Union Community School Corp
+9954,5548,Louis B Russell Jr School 48
+9955,7231,Mays Community Academy
+9960,7562,Success Academy Primary School
+9965,7563,Career Academy Middle School
+9970,1111,ACE Preparatory Academy
+9975,1112,Global Preparatory Academy
+9980,1113,Steel City Academy
+9985,1114,Seven Oaks Classical School
+9990,1116,Higher Institute of Arts & Tech
+9995,1117,Excel Center - Shelbyville
