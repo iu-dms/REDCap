@@ -1,0 +1,419 @@
+tier1_id,tier1_name
+15,Adams Central Community Schools
+25,North Adams Community Schools
+35,South Adams Schools
+125,MSD Southwest Allen County Schls
+225,Northwest Allen County Schools
+235,Fort Wayne Community Schools
+255,East Allen County Schools
+365,Bartholomew Con School Corp
+370,Flat Rock-Hawcreek School Corp
+395,Benton Community School Corp
+515,Blackford County Schools
+615,Western Boone Co Com Sch Dist
+630,Zionsville Community Schools
+665,Lebanon Community School Corp
+670,Brown County School Corporation
+750,Carroll Consolidated School Corp
+755,Delphi Community School Corp
+775,Pioneer Regional School Corp
+815,Lewis Cass Schools 
+875,Logansport Community Sch Corp
+935,Borden-Henryville School Corporation
+945,Silver Creek School Corporation
+1000,Clarksville Community School Corp
+1010,Greater Clark County Schools
+1125,Clay Community Schools
+1150,Clinton Central School Corporation
+1160,Clinton Prairie School Corporation
+1170,Community Schools of Frankfort
+1180,Rossville Con School District
+1300,Crawford County Community Sch Corp
+1315,Barr-Reeve Community Schools Inc
+1375,North Daviess Com Schools
+1405,Washington Community Schools
+1560,Sunman-Dearborn Com Sch Corp
+1600,South Dearborn Community Sch Corp
+1620,Lawrenceburg Community School Corp
+1655,Decatur County Community Schools
+1730,Greensburg Community Schools
+1805,DeKalb Co Eastern Com Sch Dist
+1820,Garrett-Keyser-Butler Com Sch Corp
+1835,DeKalb Co Ctl United Sch Dist
+1875,Delaware Community School Corp
+1885,Wes-Del Community Schools
+1895,Liberty-Perry Community Sch Corp
+1900,Cowan Community School Corp
+1910,Yorktown Community Schools
+1940,Daleville Community Schools
+1970,Muncie Community Schools
+2040,Northeast Dubois Co Sch Corp
+2100,Southeast Dubois Co Sch Corp
+2110,Southwest Dubois Co Sch Corp
+2120,Greater Jasper Consolidated Schs
+2155,Fairfield Community Schools
+2260,Baugo Community Schools
+2270,Concord Community Schools
+2275,Middlebury Community Schools
+2285,Wa-Nee Community Schools
+2305,Elkhart Community Schools
+2315,Goshen Community Schools
+2395,Fayette County School Corporation
+2400,New Albany-Floyd Co Con Sch
+2435,Attica Consolidated School Corp
+2440,Covington Community School Corp
+2455,Southeast Fountain School Corp
+2475,Franklin County Community Sch Corp
+2645,Rochester Community School Corp
+2650,Caston School Corporation
+2725,East Gibson School Corporation
+2735,North Gibson School Corporation
+2765,South Gibson School Corporation
+2815,Eastbrook Community Sch Corp
+2825,Madison-Grant United School Corp
+2855,Mississinewa Community School Corp
+2865,Marion Community Schools
+2920,Bloomfield School District
+2940,Eastern Greene Schools
+2950,Linton-Stockton School Corporation
+2960,MSD Shakamak Schools
+2980,White River Valley School District
+3005,Hamilton Southeastern Schools
+3025,Hamilton Heights School Corp
+3030,Westfield-Washington Schools
+3055,Sheridan Community Schools
+3060,Carmel Clay Schools
+3070,Noblesville Schools
+3115,Southern Hancock Co Com Sch Corp
+3125,Greenfield-Central Com Schools
+3135,Mt Vernon Community School Corp
+3145,Eastern Hancock Co Com Sch Corp
+3160,Lanesville Community School Corp
+3180,North Harrison Com School Corp
+3190,South Harrison Com Schools
+3295,North West Hendricks Schools
+3305,Brownsburg Community School Corp
+3315,Avon Community School Corp
+3325,Danville Community School Corp
+3330,Plainfield Community School Corp
+3335,Mill Creek Community Sch Corp
+3405,Blue River Valley Schools
+3415,South Henry School Corp
+3435,Shenandoah School Corporation
+3445,New Castle Community School Corp
+3455,C A Beard Memorial School Corp
+3460,Taylor Community School Corp
+3470,Northwestern School Corp
+3480,Eastern Howard School Corporation
+3490,Western School Corporation
+3500,Kokomo School Corporation
+3625,Huntington Co Com Sch Corp
+3640,Medora Community School Corp
+3675,Seymour Community Schools
+3695,Brownstown Cnt Com Sch Corp
+3710,Crothersville Community Schools
+3785,Kankakee Valley School Corp
+3815,Rensselaer Central School Corp
+3945,Jay School Corporation
+3995,Madison Consolidated Schools
+4000,Southwestern-Jefferson Co Con
+4015,Jennings County School Corporation
+4145,Clark-Pleasant Community Sch Corp
+4205,Center Grove Community School Corp
+4215,Edinburgh Community School Corp
+4225,Franklin Community School Corp
+4245,Greenwood Community Sch Corp
+4255,Nineveh-Hensley-Jackson United
+4315,North Knox School Corp
+4325,South Knox School Corp
+4335,Vincennes Community School Corp
+4345,Wawasee Community School Corp
+4415,Warsaw Community Schools
+4445,Tippecanoe Valley School Corp
+4455,Whitko Community School Corp
+4515,Prairie Heights Community Sch Corp
+4525,Westview School Corporation
+4535,Lakeland School Corporation
+4570,NW Indiana Special Education Coop
+4580,Hanover Community School Corp
+4590,River Forest Community Sch Corp
+4600,Merrillville Community School Corp
+4615,Lake Central School Corporation
+4645,Tri-Creek School Corporation
+4650,Lake Ridge New Tech Schools
+4660,Crown Point Community School Corp
+4670,School City of East Chicago
+4680,Lake Station Community Schools
+4690,Gary Community School Corp
+4700,Griffith Public Schools
+4710,School City of Hammond
+4720,School Town of Highland
+4730,School City of Hobart
+4740,School Town of Munster
+4760,School City of Whiting
+4805,New Prairie United School Corp
+4860,MSD of New Durham Township
+4915,Tri-Township Cons School Corp
+4925,Michigan City Area Schools
+4940,South Central Com School Corp
+4945,LaPorte Community School Corp
+5075,North Lawrence Com Schools
+5085,Mitchell Community Schools
+5245,Frankton-Lapel Community Schools
+5255,South Madison Com Sch Corp
+5265,Alexandria Community School Corp
+5275,Anderson Community School Corp
+5280,Elwood Community School Corp
+5300,MSD Decatur Township
+5310,Franklin Township Com Sch Corp
+5330,MSD Lawrence Township
+5340,Perry Township Schools
+5350,MSD Pike Township
+5360,MSD Warren Township
+5370,MSD Washington Township
+5375,MSD Wayne Township
+5380,Beech Grove City Schools
+5385,Indianapolis Public Schools
+5390,Southside Sp Srvs Of Marion Co
+5400,School Town of Speedway
+5455,Culver Community Schools Corp
+5470,Argos Community Schools
+5480,Bremen Public Schools
+5485,Plymouth Community School Corp
+5495,Triton School Corporation
+5520,Shoals Community School Corp
+5525,Loogootee Community Sch Corp
+5615,Maconaquah School Corp
+5620,North Miami Community Schools
+5625,Oak Hill United School Corp
+5635,Peru Community Schools
+5705,Richland-Bean Blossom C S C
+5740,Monroe County Community Sch Corp
+5835,North Montgomery Com Sch Corp
+5845,South Montgomery Com Sch Corp
+5855,Crawfordsville Community Schools
+5900,Monroe-Gregg School District
+5910,Eminence Community School Corp
+5925,MSD Martinsville Schools
+5930,Mooresville Con School Corp
+5945,North Newton School Corp
+5995,South Newton School Corp
+6055,Central Noble Com School Corp
+6060,East Noble School Corporation
+6065,West Noble School Corporation
+6080,Rising Sun-Ohio Co Com
+6145,Orleans Community Schools
+6155,Paoli Community School Corp
+6160,Springs Valley Com School Corp
+6195,Spencer-Owen Community Schools
+6260,Southwest Parke Com Sch Corp
+6325,Perry Central Com Schools Corp
+6340,Cannelton City Schools
+6350,Tell City-Troy Twp School Corp
+6375,North Central Parke Comm Schl Corp
+6445,Pike County School Corp
+6455,Porter County Education Services
+6460,MSD Boone Township
+6470,Duneland School Corporation
+6510,East Porter County School Corp
+6520,Porter Township School Corp
+6530,Union Township School Corp
+6550,Portage Township Schools
+6560,Valparaiso Community Schools
+6590,MSD Mount Vernon
+6600,MSD North Posey Co Schools
+6620,Eastern Pulaski Community Sch Corp
+6630,West Central School Corp
+6705,South Putnam Community Schools
+6715,North Putnam Community Schools
+6750,Cloverdale Community Schools
+6755,Greencastle Community School Corp
+6795,Union School Corporation
+6805,Randolph Southern School Corp
+6820,Monroe Central School Corp
+6825,Randolph Central School Corp
+6835,Randolph Eastern School Corp
+6865,South Ripley Com Sch Corp
+6895,Batesville Community School Corp
+6900,Jac-Cen-Del Community Sch Corp
+6910,Milan Community Schools
+6995,Rush County Schools
+7150,John Glenn School Corporation
+7175,Penn-Harris-Madison School Corp
+7200,School City of Mishawaka
+7205,South Bend Community School Corp
+7215,Union-North United School Corp
+7230,Scott County School District 1
+7255,Scott County School District 2
+7285,Shelby Eastern Schools
+7350,Northwestern Con School Corp
+7360,Southwestern Con Sch Shelby Co
+7365,Shelbyville Central Schools
+7385,North Spencer County Sch Corp
+7445,South Spencer County Sch Corp
+7495,Oregon-Davis School Corp
+7515,North Judson-San Pierre Sch Corp
+7525,Knox Community School Corp
+7605,Fremont Community Schools
+7610,Hamilton Community Schools
+7615,MSD Steuben County
+7645,Northeast School Corp
+7715,Southwest School Corporation
+7775,Switzerland County School Corp
+7855,Lafayette School Corporation
+7865,Tippecanoe School Corp
+7875,West Lafayette Com School Corp
+7935,Tri-Central Community Schools
+7945,Tipton Community School Corp
+7950,Union Co/Clg Corner Joint Sch Dist
+7995,Evansville Vanderburgh School Corp
+8010,North Vermillion Com Sch Corp
+8020,South Vermillion Com Sch Corp
+8030,Vigo County School Corp
+8045,Manchester Community Schools
+8050,MSD Wabash County Schools
+8060,Wabash City Schools
+8115,MSD Warren County
+8130,Warrick County School Corp
+8205,Salem Community Schools
+8215,East Washington School Corp
+8220,West Washington School Corp
+8305,Nettle Creek School Corporation
+8355,Western Wayne Schools
+8360,Centerville-Abington Com Schs
+8375,Northeastern Wayne Schools
+8385,Richmond Community Schools
+8425,Southern Wells Com Schools
+8435,Northern Wells Community Schools
+8445,MSD Bluffton-Harrison
+8515,North White School Corp
+8525,Frontier School Corporation
+8535,Tri-County School Corporation
+8565,Twin Lakes School Corp
+8625,Smith-Green Community Schools
+8635,Purdue Polytechnic High Sch North
+8655,Excel Center - Bloomington
+8665,Whitley County Con Schools
+8675,Invent Learning Hub
+8685,PLA at George H Fisher School 93
+8690,Dynamic Minds Academy
+8940,James and Rosemary Phalen Leadership Academy High School
+8950,Phalen Leadership Academy at Francis Scott Key School 103
+8960,Purdue Polytechnic High School South Bend
+8970,GEO Next Generation Academy
+8980,The PATH School
+8990,HIM By HER Collegiate School for the Arts
+9000,Phalen Virtual Leadership Academy
+9010,Ignite Achievement Academy 
+9015,Purdue Polytechnic High School Ind
+9030,Otwell Miller Academy
+9035,Indiana Connections Career Academy
+9040,Avondale Meadows Middle School
+9045,James & Rosemary Phalen Leadership Academy Middle School
+9050,Excel Center - Clarksville
+9055,Excel Center - Hammond
+9060,Paramount Cottage Home
+9065,Allegiant Preparatory Academy
+9070,Gary Middle College West
+9080,Vanguard Collegiate of Indy
+9085,pilotED Schools
+9090,Matchbook Learning  
+9095,Urban ACT Academy
+9100,Indiana Department of Correction
+9115,Kindezi Academy
+9120,Insight School of Indiana
+9130,Adelante Schools
+9135,KIPP Indy Legacy High
+9140,BELIEVE Circle City High School
+9145,Riverside High School
+9150,Circle City Prep Charter School
+9160,Excel Center - Muncie
+9165,Paramount Englewood
+9170,Rooted School Indianapolis
+9190,Excel Center - Gary 
+9195,Timothy L. Johnson Academy Middle 
+9305,Excel Center - Richmond
+9310,Charter School of the Dunes
+9315,Signature School Inc
+9320,Community Montessori Inc
+9325,Options Charter Schools
+9330,Irvington Community School
+9335,Excel Center - Lafayette Square
+9345,Excel Center - Lafayette
+9350,Timothy L Johnson Academy
+9355,Excel Center - Kokomo
+9365,Enlace Academy
+9380,Christel House Academy South
+9385,Christel House DORS
+9395,Christel House Academy West
+9400,KIPP Indy College Prep Middle
+9410,KIPP Indy Unite Elementary
+9425,Tindley Genesis Academy
+9430,Tindley Summit Academy
+9445,Charles A Tindley Accelerated Sch
+9460,Thea Bowman Leadership Academy
+9465,Rural Community Schools Inc
+9485,SE Neighborhood Sch of Excellence
+9495,Joshua Academy
+9500,West Central Education Service Ctr
+9505,Indiana Agriculture and Technology
+9510,Northern IN Education Center
+9520,Southern IN Education Center
+9530,East Central Education Service Ctr
+9535,Gary Lighthouse Charter School
+9540,Wilson Education Center
+9545,21st Century Charter Sch of Gary
+9550,Wabash Valley Education Center
+9555,East Chicago Urban Enterprise Acad
+9560,Region 8 Education Service Center
+9570,Northwest IN Education Center
+9575,Victory College Prep Academy
+9580,Central IN Education Service Ctr
+9595,East Chicago Lighthouse Charter
+9605,IN Sch for the Blind & Vis Imprd
+9610,Indiana School For The Deaf
+9615,Andrew J Brown Academy
+9620,Burris Laboratory School
+9625,Indiana Academy for Sci Math Hmn 
+9645,Avondale Meadows Academy
+9650,Herron Charter
+9651,"The Hope Academy, Inc."
+9665,Geist Montessori Academy
+9670,Indianapolis Metropolitan High Sch
+9680,Paramount Brookside 
+9685,Aspire Charter Academy
+9690,Renaissance Academy Charter School
+9705,Hammond Academy of Science & Tech
+9725,Canaan Community Academy
+9730,Neighbors' New Vistas High School
+9735,Inspire Academy - A Sch of Inquiry
+9750,Excel Center - Anderson
+9760,Smith Academy for Excellence
+9785,IN Math & Science Academy
+9790,Anderson Preparatory Academy
+9805,Hoosier Academy - Indianapolis
+9835,The Bloomington Project School
+9840,Excel Center - University Heights
+9855,Excel Center - Noblesville
+9870,Discovery Charter School
+9875,Rock Creek Community Academy
+9880,Career Academy High School
+9885,Gary Middle College
+9895,IN Math & Science Academy - North
+9900,Excel Center - South Bend
+9905,Indiana Connections Academy
+9910,Excel Center for Adult Learners
+9920,Damar Charter Academy
+9925,Phalen Leadership Academy - IN Inc
+9935,Vision Academy
+9950,Dugger Union Community School Corp
+9954,Phalen Leadership Academy at Louis B Russell School 48
+9955,Mays Community Academy
+9960,Success Academy Primary School
+9965,Career Academy Middle School
+9970,ACE Preparatory Academy
+9975,Global Preparatory Academy
+9980,Steel City Academy
+9985,Seven Oaks Classical School
+9990,Higher Institute of Arts & Tech
+9995,Excel Center - Shelbyville
