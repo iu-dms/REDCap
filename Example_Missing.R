@@ -1,6 +1,6 @@
-source("REDCapMissingSyntax.R")
+source("redcap_missing_syntax.R")
 
-dictionary <- "MyDataDictionary.csv"
+dictionaryfile <- "MyDataDictionary.csv"
 out <- "/home/MyOutputDirectory/"
 forms <- c()
 types <- c("calc", "descriptive", "file")
