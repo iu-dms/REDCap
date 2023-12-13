@@ -126,6 +126,10 @@ miss_calcs <- miss_calcs_b %>%
   mutate(field_type='calc') %>% 
   mutate(field_label=paste0('Missing Response Count for form "', form_name, '"'))
 
+##rename any non-unique field names
+miss_calcs <- transform(miss_calcs, field_name = ave(as.character(field_name), field_name, 
+                             FUN = function(x) if (length(x) > 1) paste0(substr(x,1,24), "_", seq(x)) else x))
+                               
 qc_fieldnames1 <- unique(miss_calcs$field_name)
 if (length(qc_fieldnames1) != nrow(miss_calcs)) {
   stop("Duplicate Field Names For Missing Counts Generated - You may have to edit existing form names to prevent this from happening")
